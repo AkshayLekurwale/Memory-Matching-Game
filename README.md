@@ -9,6 +9,7 @@ It's a simple online memory matching game, which contains various levels.
 <br>
 Here are some snapshots from game.
 
+#Select grid size
 <img src="snapshot1.PNG" width=95% alt="snapshots">
 <img src="snapshot2.PNG" width=95% alt="snapshots">
 <img src="snapshot3.PNG" width=95% alt="snapshots">
